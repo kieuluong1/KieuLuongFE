@@ -85,8 +85,8 @@
                         <h6 class="text-uppercase fw-bold">Contact</h6>
                         <hr class="mb-4 mt-0 d-inline-block mx-auto"
                             style="width: 60px; background-color: #7c4dff; height: 2px" />
-                        <p><i class="fas fa-home mr-3"></i>61 Lý Tự Trọng, Hải Châu, Đà Nẵng</p>
-                        <p><i class="fas fa-envelope mr-3"></i> vannhan130504@gmail.com</p>
+                        <p><i class="fas fa-home mr-3"></i>61 Đống Đa, Hải Châu, Đà Nẵng</p>
+                        <p><i class="fas fa-envelope mr-3"></i> luongkieu292004@gmail.com</p>
                         <p><i class="fas fa-phone mr-3"></i> + 0987654321</p>
                     </div>
                 </div>
@@ -94,7 +94,7 @@
         </section>
         <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
             © 2024 Copyright:
-            <a class="text-white" href="/">VAN NHAN</a>
+            <a class="text-white" href="/">KIEU LUONG</a>
         </div>
     </footer>
 </template>
