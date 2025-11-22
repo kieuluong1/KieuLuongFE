@@ -2,7 +2,7 @@
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2">
         <div class="col mx-auto">
             <div class="my-4 text-center">
-                <img src="../../../assets/img/logoECom.png" style="width: 180px;" alt="">
+                <img src="../../../assets/images/Kiu Lơ.png" style="width: 180px;" alt="">
             </div>
             <div class="card">
                 <div class="card-body">

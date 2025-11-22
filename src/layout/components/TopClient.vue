@@ -3,9 +3,9 @@
         <div class="topbar d-flex align-items-center">
             <nav class="navbar navbar-expand">
                 <div class="topbar-logo-header d-flex align-items-center">
-                    <img src="https://phongvu.vn/cong-nghe/wp-content/uploads/2024/09/hinh-nen-capybara-17-1-1024x576.jpg" class="logo-icon" style="width: 70px;"
+                    <img src="../../assets/images/Kiu Lơ.png" class="logo-icon" style="width: 60px;"
                         alt="logo icon">
-                    <h4 class="mt-3 ms-2">VAN NHAN</h4>
+                    <h4 class="mt-3 ms-2">KIEULUONG SHOP</h4>
                 </div>
                 <div class="mobile-toggle-menu"><i class='bx bx-menu'></i></div>
                 <div class="search-bar flex-grow-1">
@@ -41,7 +41,7 @@
                     <div class="user-box dropdown">
                         <a class="d-flex align-items-center nav-link dropdown-toggle dropdown-toggle-nocaret" href="#"
                             role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            <img src="../../assets/images/avatars/avatar-2.png" class="user-img" alt="user avatar">
+                            <img src="https://i.pinimg.com/736x/bc/43/98/bc439871417621836a0eeea768d60944.jpg" class="user-img" alt="user avatar">
                             <div class="user-info ps-3">
                                 <p class="user-name mb-0">{{ name_kh }}</p>
                                 <p class="designattion mb-0">Khách Hàng</p>
